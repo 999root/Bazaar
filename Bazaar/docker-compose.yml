@@ -1,0 +1,9 @@
+services:
+  bazaar:
+    container_name: bazaar
+    build:
+      context: ./bazaar
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./bazaar/files:/app/files
