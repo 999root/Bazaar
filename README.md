@@ -1,3 +1,4 @@
+<div align="center"><img width="700" src="_assets/bazaar.jpg"></div>
 <h1 align="center">Bazaar</h1>
 
 <p align="center">
